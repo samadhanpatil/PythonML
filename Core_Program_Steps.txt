@@ -1,0 +1,37 @@
+---Core Program steps are below
+File Process
+Memory Management
+Process Management :- 
+CPU Scheduling
+Hardware Abstraction 
+
+Program is static instructions.
+Process is nothign but running instance of program.
+Thread is nothing but light weight part of program.
+Eveyr process is having main thread. 
+Heart of human is main tread and other parts are also thread
+
+
+
+Program having def is functional programming,
+Program having class is OOP programming
+Program with Without any above is script programming
+
+Python support Muticore processing
+
+
+If Program is having multiple calculation like - micro processing is required then we should go with Mutiprocessing.
+E.g Tea creating, all thing are mandatory required, none can be sepearted
+
+If program is having mutiple task and can be divided. then it is called as Muti thread.
+If calculation can be done by dividing and 
+E.g. Create Rice Khichadi. or Ganapati Decoration with Mutiple tasks.
+
+Process is like adult guest at home, and kids are like thread. Process has to entertain like Tea,coffee
+36.4743
+Need to manage process but thread are not like that
+
+
+
+
+
